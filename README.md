@@ -1,2 +1,2 @@
 # TestRepository-
-Test to get staret in GitHub
+Test to get started in GitHub
